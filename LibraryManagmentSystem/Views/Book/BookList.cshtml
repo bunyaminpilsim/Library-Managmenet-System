@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Book>
+
+@{
+    ViewData["Title"] = "Kitap Listesi";
+}
+
+<h2 class="my-4">Kitap Listesi</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Kitap No</th>
+            <th>Kitap Adı</th>
+            <th>Yazar Adı</th>
+            <th>Yayınla Tarihi</th>
+            <th>Sayfa Sayısı</th>
+            <th>Kapak Fotoğrafı</th>
+            <th>Kategori</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.PublishDate.ToShortDateString()</td>
+                <td>@book.PageCount</td>
+                <td><img src="@book.CoverImgPath" alt="Car Image" width="100" /></td>
+                <td>@book.CategoryId</td>
+               
+                <td>
+                    <a href="/Book/UpdateBook?id=@book.Id" class="btn btn-primary">Güncelle</a>
+                    <a href="/Boook/DeleteBook?id=@book.Id" class="btn btn-primary">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
