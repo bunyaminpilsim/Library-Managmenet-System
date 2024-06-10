@@ -1,0 +1,54 @@
+﻿@model Book
+
+@{
+    ViewData["Title"] = "Kitap Güncelle";
+
+}
+
+<h2 class="my-4">Kitap Güncelle</h2>
+
+<form asp-action="UpdateBook" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Kitap No</label>
+        <input type="number" class="form-control" asp-for="Id" readonly/>
+    </div>
+    <div class="form-group">
+        <label>Kitap Adı </label>
+        <input type="text" class="form-control" asp-for="Title" />
+    </div>
+    <div class="form-group">
+        <label>Yazar Adı </label>
+        <input type="text" class="form-control" asp-for="Author" />
+    </div>
+    <div class="form-group">
+        <label>İlan Tarihi</label>
+        <input type="date" class="form-control" asp-for="PublishDate" />
+    </div>
+    <div class="form-group">
+        <label>Dosya Seç:</label>
+        <input type="file" id="file" asp-for="File" />
+    </div>
+    <div class="form-group">
+        <label>Sayfa Sayısı</label>
+        <input type="number" class="form-control" asp-for="PageCount" />
+    </div>
+    <div class="form-group">
+        <label>Kategori</label>
+        <select class="form-control" asp-for="CategoryId">
+            <option value="">Seçiniz</option>
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.Id">@category.CategoryName</option>
+            }
+        </select>
+    </div>
+    <br />
+    <br />
+
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}
