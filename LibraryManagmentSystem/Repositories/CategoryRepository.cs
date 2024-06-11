@@ -1,40 +1,49 @@
-﻿using LibraryManagmentSystem.Models;
+﻿using LibraryManagementSystem.Models;
+using LibraryManagmentSystem.Models;
 
 namespace LibraryManagmentSystem.Repositories
 {
     public class CategoryRepository:ICategoryRepository
     {
-        List<Category> _categories=new List<Category>();
+        private readonly ApplicationDbContext _context;
+
+        public CategoryRepository(ApplicationDbContext context)
+        {
+            _context = context;
+        }
 
         public void AddCategory(Category category)
         {
-           _categories.Add(category);
+            _context.Categories.Add(category);
+            _context.SaveChanges();
         }
 
         public void DeleteCategory(Category category)
         {
-            _categories.Remove(category);
+            _context.Categories.Remove(category);
+            _context.SaveChanges();
         }
 
         public List<Category> GetAllCategories()
         {
-            return _categories;
+            return _context.Categories.ToList();
+
         }
 
         public Category GetCategoryById(int id)
         {
-           var category = _categories.FirstOrDefault(c => c.Id == id);
-
-            return category;
+            return _context.Categories.FirstOrDefault(x => x.Id == id);
         }
 
         public void UpdateCategory(Category category)
         {
-           var exCategory=GetCategoryById(category.Id);
+            var exCategory = _context.Categories.FirstOrDefault(x => x.Id == category.Id);
             if (exCategory != null)
             {
                 exCategory.CategoryName=category.CategoryName;
+                _context.SaveChanges();
             }
+
         }
     }
 }

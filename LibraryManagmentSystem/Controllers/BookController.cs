@@ -18,16 +18,16 @@ namespace LibraryManagmentSystem.Controllers
         public ActionResult AddBook()
         {
             List<Category> categories = _categoryRepository.GetAllCategories();
+            ViewBag.Categories = categories; 
             Book book = new Book();
-            book.Categories = categories;
-            return View(book);
+            return View();
         }
 
         [HttpPost]
         public async Task<ActionResult> AddBook(Book book)
         {
             List<Category> categories = _categoryRepository.GetAllCategories();
-            book.Categories = categories;
+            ViewBag.Categories = categories;
 
             if (ModelState.IsValid)
             {
@@ -57,8 +57,7 @@ namespace LibraryManagmentSystem.Controllers
         public ActionResult BookList()
         {
             List<Category> categories = _categoryRepository.GetAllCategories();
-            Book book = new Book();
-            book.Categories = categories;
+            ViewBag.Categories = categories;
             var books = _bookRepository.GetAllBooks();
             return View(books);
         }
@@ -66,8 +65,7 @@ namespace LibraryManagmentSystem.Controllers
         public ActionResult UpdateBook(int id)
         {
             List<Category> categories = _categoryRepository.GetAllCategories();
-            Book book = new Book();
-            book.Categories = categories;
+            ViewBag.Categories = categories;
             var exBook = _bookRepository.GetBookById(id);
             if (exBook == null)
             {
@@ -80,9 +78,11 @@ namespace LibraryManagmentSystem.Controllers
 
         public ActionResult UpdateBook(Book book)
         {
+            List<Category> categories = _categoryRepository.GetAllCategories();
+            ViewBag.Categories = categories;
             if (ModelState.IsValid)
             {
-                var existingBook = _bookRepository.GetBookById(book.Id);
+                var existingBook = _bookRepository.GetBookById(book.Id ?? 1);
                 if (existingBook == null)
                 {
                     return NotFound();
@@ -121,7 +121,6 @@ namespace LibraryManagmentSystem.Controllers
                 existingBook.Author = book.Author;
                 existingBook.PageCount = book.PageCount;
                 existingBook.CategoryId = book.CategoryId;
-                existingBook.Categories = book.Categories;
 
                 _bookRepository.UpdateBook(existingBook);
                 return RedirectToAction("BookList");
