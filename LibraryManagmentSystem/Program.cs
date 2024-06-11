@@ -1,4 +1,6 @@
+using LibraryManagementSystem.Models;
 using LibraryManagmentSystem.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace LibraryManagmentSystem
 {
@@ -11,8 +13,15 @@ namespace LibraryManagmentSystem
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddSingleton<IBookRepository, BookRepository>();
-            builder.Services.AddSingleton<ICategoryRepository, CategoryRepository>();
+            //builder.Services.AddSingleton<IBookRepository, BookRepository>();
+            //builder.Services.AddSingleton<ICategoryRepository, CategoryRepository>();
+
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            builder.Services.AddScoped<IBookRepository, BookRepository>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+
 
             var app = builder.Build();
 

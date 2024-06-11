@@ -1,35 +1,41 @@
-﻿using LibraryManagmentSystem.Models;
+﻿using LibraryManagementSystem.Models;
+using LibraryManagmentSystem.Models;
 
 namespace LibraryManagmentSystem.Repositories
 {
     public class BookRepository : IBookRepository
     {
-        List<Book> _books = new List<Book>();
+        private readonly ApplicationDbContext _context;
+
+        public BookRepository(ApplicationDbContext context)
+        {
+            _context = context;
+        }
         public void AddBook(Book book)
         {
-            _books.Add(book);
+            _context.Books.Add(book);
+            _context.SaveChanges();
         }
 
         public void DeleteBook(Book book)
         {
-            _books.Remove(book);
+            _context.Books.Remove(book);
+            _context.SaveChanges();
         }
 
         public List<Book> GetAllBooks()
         {
-            return _books;
+            return _context.Books.ToList();
         }
 
         public Book GetBookById(int id)
         {
-            var book = _books.FirstOrDefault(x => x.Id == id);
-
-            return book;
+            return _context.Books.FirstOrDefault(x => x.Id == id);
         }
 
         public void UpdateBook(Book book)
         {
-            var exBook = GetBookById(book.Id);
+            var exBook = _context.Books.FirstOrDefault(x => x.Id == book.Id);
             if (exBook != null)
             {
                 exBook.Title = book.Title;
@@ -38,7 +44,8 @@ namespace LibraryManagmentSystem.Repositories
                 exBook.File = book.File;
                 exBook.CoverImgPath = book.CoverImgPath;
                 exBook.CategoryId = book.CategoryId;
-                exBook.Categories = book.Categories;
+
+                _context.SaveChanges();
             }
         }
     }
