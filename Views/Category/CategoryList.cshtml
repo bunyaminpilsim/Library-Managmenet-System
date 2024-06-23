@@ -1,0 +1,32 @@
+﻿@model IEnumerable<CategoryDTO>
+
+@{
+    ViewData["Title"] = "Kategori Listesi";
+}
+
+<h2 class="my-4">Kategori Listesi</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Adı</th> 
+            <th>Numara</th> 
+            <th>Resim</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Name</td>
+                <td>@category.ListingNumber</td>
+                <td><img src="@category.FilePath" alt="Car Image" width="100" /></td>
+                <td>
+                    <a href="/Category/UpdateCategory?listingNumber=@category.ListingNumber" class="btn btn-primary">Güncelle</a>
+                    <a href="/Category/DeleteCategory?listingNumber=@category.ListingNumber" class="btn btn-primary">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|c:\\users\\bunyamin pilsim\\downloads\\carsaleproject_5\\carsaleproject_5\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|c:\\users\\bunyamin pilsim\\downloads\\carsaleproject_5\\carsaleproject_5\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|c:\\users\\bunyamin pilsim\\downloads\\carsaleproject_5\\carsaleproject_5\\views\\carsale\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|solutionrelative:views\\carsale\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|c:\\users\\bunyamin pilsim\\downloads\\carsaleproject_5\\carsaleproject_5\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|c:\\users\\bunyamin pilsim\\downloads\\carsaleproject_5\\carsaleproject_5\\models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|solutionrelative:models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|c:\\users\\bunyamin pilsim\\downloads\\carsaleproject_5\\carsaleproject_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2D8B1-4F46-4129-8583-35325C31A5D4}|CarSaleProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Views\\CarSale\\AddCar.cshtml",
+              "RelativeDocumentMoniker": "Views\\CarSale\\AddCar.cshtml",
+              "ToolTip": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Views\\CarSale\\AddCar.cshtml",
+              "RelativeToolTip": "Views\\CarSale\\AddCar.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T20:04:10.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Models\\CarDTO.cs",
+              "RelativeDocumentMoniker": "Models\\CarDTO.cs",
+              "ToolTip": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Models\\CarDTO.cs",
+              "RelativeToolTip": "Models\\CarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:00:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:58:14.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:56:47.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Repositories\\CarRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAawDIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:51:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:42:51.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

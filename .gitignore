@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CarSaleProject/FileContentIndex/33f30d5f-b981-4b8b-9249-cbcf01d44db3.vsidx
+/.vs/CarSaleProject/FileContentIndex/60847af5-8ee7-4ec8-86de-d469afbd2ff5.vsidx
+/.vs/CarSaleProject/FileContentIndex/7776a705-4135-4a3a-a78c-2cce54cd4495.vsidx
+/.vs/CarSaleProject/FileContentIndex/4846991f-e772-47b5-81d6-152b97800d29.vsidx
+/.vs/CarSaleProject/FileContentIndex/653c467d-5cb2-48ca-a1e7-2a95e9b90e57.vsidx
+/.vs/CarSaleProject/FileContentIndex/79bf0ea6-e6ed-400e-9fe5-1afa3e95488f.vsidx
+/.vs/CarSaleProject/FileContentIndex/cc5b5284-47e7-4669-9adb-66f9a43323b7.vsidx
+/.vs/CarSaleProject/FileContentIndex/d2881183-5ca4-4932-b069-aaa887c65a85.vsidx
+/.vs/CarSaleProject/FileContentIndex/7c6a06f2-8622-43d0-8096-445993c5f2ce.vsidx
+/.vs/CarSaleProject/FileContentIndex/9ee1a9af-92b3-49e0-8fd1-d74937cecf08.vsidx
+/.vs/CarSaleProject/FileContentIndex/4cc3536b-7547-4857-8ab6-a9f83c3a78d8.vsidx
+/.vs/CarSaleProject/FileContentIndex/f2e11cf8-7de1-4634-9948-a927511ac77d.vsidx
+/.vs/CarSaleProject/FileContentIndex/ba024ba4-3ec5-4257-953d-578039b7fc61.vsidx
+/wwwroot/img/5b34994a-271d-48bf-b38a-aba08e4750f6
+/.vs/CarSaleProject/FileContentIndex/3395adc1-eb50-4d68-a049-4e536baacef6.vsidx
+/.vs/CarSaleProject/FileContentIndex/f99913d9-0bb4-4a48-84b1-b16795f0b81a.vsidx
+*.vsidx

@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CarSaleProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarSaleProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\1.PNG",
+      "PackagePath": "staticwebassets\\img\\1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\1dc1b761-0012-4872-94a0-0fa0f9ea7f88.PNG",
+      "PackagePath": "staticwebassets\\img\\1dc1b761-0012-4872-94a0-0fa0f9ea7f88.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\2.PNG",
+      "PackagePath": "staticwebassets\\img\\2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\2d5729dc-a72b-41d4-865b-5be0b505ac3a.PNG",
+      "PackagePath": "staticwebassets\\img\\2d5729dc-a72b-41d4-865b-5be0b505ac3a.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\3bf8c2b3-9ee0-433f-b2ea-b4cf97b692c5.PNG",
+      "PackagePath": "staticwebassets\\img\\3bf8c2b3-9ee0-433f-b2ea-b4cf97b692c5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\4.PNG",
+      "PackagePath": "staticwebassets\\img\\4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\45b2f54d-289b-4258-9bd9-c3fbed5a32a8.PNG",
+      "PackagePath": "staticwebassets\\img\\45b2f54d-289b-4258-9bd9-c3fbed5a32a8.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\4e59e9bd-53d8-4834-91dd-98dfe8aaada0.PNG",
+      "PackagePath": "staticwebassets\\img\\4e59e9bd-53d8-4834-91dd-98dfe8aaada0.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\4eda6ba1-d902-431d-9c68-a49468537f1f.PNG",
+      "PackagePath": "staticwebassets\\img\\4eda6ba1-d902-431d-9c68-a49468537f1f.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\5b34994a-271d-48bf-b38a-aba08e4750f6",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\6f05f3eb-138b-476b-b198-0d2551921f7d.PNG",
+      "PackagePath": "staticwebassets\\img\\6f05f3eb-138b-476b-b198-0d2551921f7d.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\7ab222a1-fd99-42e5-9bae-4239c8b9c013.PNG",
+      "PackagePath": "staticwebassets\\img\\7ab222a1-fd99-42e5-9bae-4239c8b9c013.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\7db439c0-5b7b-4f65-9e16-29bfeeef5d97.PNG",
+      "PackagePath": "staticwebassets\\img\\7db439c0-5b7b-4f65-9e16-29bfeeef5d97.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\869ed32a-1e4d-4f5e-933c-1fc6b7645bf5.PNG",
+      "PackagePath": "staticwebassets\\img\\869ed32a-1e4d-4f5e-933c-1fc6b7645bf5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\86f4e5d7-0ed4-4e77-9c02-d35c21a266fd.jpg",
+      "PackagePath": "staticwebassets\\img\\86f4e5d7-0ed4-4e77-9c02-d35c21a266fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\89d35d2e-68ef-4a6d-ad24-367b53d48df8.PNG",
+      "PackagePath": "staticwebassets\\img\\89d35d2e-68ef-4a6d-ad24-367b53d48df8.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\8d483ed8-bf1e-42f2-af0f-821bef4b5e4a.PNG",
+      "PackagePath": "staticwebassets\\img\\8d483ed8-bf1e-42f2-af0f-821bef4b5e4a.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\WhatsApp Image 2024-03-24 at 10.48.30.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2024-03-24 at 10.48.30.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\WhatsApp Image 2024-03-24 at 11.51.30.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2024-03-24 at 11.51.30.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\a31fbdc4-d371-4314-ad6a-53ad4e678fb3.jpg",
+      "PackagePath": "staticwebassets\\img\\a31fbdc4-d371-4314-ad6a-53ad4e678fb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\a8b917a5-fd90-48c6-8f89-db69236f1d0c.PNG",
+      "PackagePath": "staticwebassets\\img\\a8b917a5-fd90-48c6-8f89-db69236f1d0c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\b6708b39-e620-4f17-87b2-7e5da3ea207f.PNG",
+      "PackagePath": "staticwebassets\\img\\b6708b39-e620-4f17-87b2-7e5da3ea207f.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\b9800fbc-867e-4a35-8a18-28ed3332eaa4.PNG",
+      "PackagePath": "staticwebassets\\img\\b9800fbc-867e-4a35-8a18-28ed3332eaa4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\c999ec5b-c7ba-42cc-ad01-70c00b8f3b6c.PNG",
+      "PackagePath": "staticwebassets\\img\\c999ec5b-c7ba-42cc-ad01-70c00b8f3b6c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\d2d4012b-b118-4da3-b31c-e043f4e063aa.PNG",
+      "PackagePath": "staticwebassets\\img\\d2d4012b-b118-4da3-b31c-e043f4e063aa.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\d5ab595b-d7f0-43c8-9ee4-490d61ae447e.PNG",
+      "PackagePath": "staticwebassets\\img\\d5ab595b-d7f0-43c8-9ee4-490d61ae447e.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\e1b95764-58e8-49cb-9f1c-477b193ff052.PNG",
+      "PackagePath": "staticwebassets\\img\\e1b95764-58e8-49cb-9f1c-477b193ff052.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\e3806493-8ba8-457c-9d36-f8f5f955457c.PNG",
+      "PackagePath": "staticwebassets\\img\\e3806493-8ba8-457c-9d36-f8f5f955457c.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\ea936470-4a43-4fd3-83da-afa9534c2f45.PNG",
+      "PackagePath": "staticwebassets\\img\\ea936470-4a43-4fd3-83da-afa9534c2f45.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\ee8715f5-f969-45b0-8dbf-aec6cccb1256.PNG",
+      "PackagePath": "staticwebassets\\img\\ee8715f5-f969-45b0-8dbf-aec6cccb1256.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\f0340de4-fe92-4b60-9c95-3693561f5667.PNG",
+      "PackagePath": "staticwebassets\\img\\f0340de4-fe92-4b60-9c95-3693561f5667.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\fd2716dc-26a1-4bd1-b652-f9a55eff5f7d.PNG",
+      "PackagePath": "staticwebassets\\img\\fd2716dc-26a1-4bd1-b652-f9a55eff5f7d.PNG"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\ff0ecfce-49cc-4bf8-8ea0-5cac92e5188f.jpg",
+      "PackagePath": "staticwebassets\\img\\ff0ecfce-49cc-4bf8-8ea0-5cac92e5188f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\img\\iki sayı toplamı.jpg",
+      "PackagePath": "staticwebassets\\img\\iki sayı toplamı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BUNYAMIN PILSIM\\Downloads\\CarSaleProject_5\\CarSaleProject_5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CarSaleProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CarSaleProject.props",
+      "PackagePath": "build\\CarSaleProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CarSaleProject.props",
+      "PackagePath": "buildMultiTargeting\\CarSaleProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CarSaleProject.props",
+      "PackagePath": "buildTransitive\\CarSaleProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

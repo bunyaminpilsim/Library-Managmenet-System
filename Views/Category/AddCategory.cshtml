@@ -1,0 +1,29 @@
+﻿@model CategoryDTO
+
+@{
+    ViewData["Title"] = "Kategori Ekle";
+}
+
+<h2 class="my-4">Kategori Ekle</h2>
+
+<form asp-action="AddCategory" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Kategori Numarası</label>
+        <input type="number" class="form-control" asp-for="ListingNumber" />
+    </div>
+    <div class="form-group">
+        <label>Kategori Adı</label>
+        <input type="text" class="form-control" asp-for="Name" />
+    </div>
+
+    <div class="form-group">
+        <label>Dosya Seç:</label>
+        <input type="file" id="file" asp-for="File" />
+    </div>
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}
